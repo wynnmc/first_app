@@ -2,7 +2,7 @@
 ;; --------------------------------------------------------------------------
 ;; Desktop File for Emacs
 ;; --------------------------------------------------------------------------
-;; Created Sun Oct 13 17:25:27 2013
+;; Created Sun Oct 13 17:58:30 2013
 ;; Desktop file format version 206
 ;; Emacs version 24.3.1
 
@@ -16,6 +16,17 @@
 (setq file-name-history '("~/progs/Ruby/Rails/rails_projects/first_app/.gitignore"))
 
 ;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/chris/first_app/README.md"
+  "README.md"
+  'text-mode
+  '(auto-fill-mode)
+  183
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
 (desktop-create-buffer 206
   "/home/chris/progs/Ruby/Rails/rails_projects/first_app/.gitignore"
   ".gitignore"
